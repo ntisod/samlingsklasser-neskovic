@@ -21,7 +21,7 @@ namespace Samlingsklasser
             Console.WriteLine("8. Övning2");
             Console.WriteLine("9. Övning3");
 
-            //Läs in menyval
+            //Läs in menyval test
             Console.Write("Ange siffra för vad du vill göra: ");
             string val = Console.ReadLine();
 
